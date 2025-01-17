@@ -210,7 +210,7 @@ def main():
 
 
     #stramlit interface:
-    st.title("News Summarizer")
+    st.title("News Summarizer\n CREATED BY RISHABH")
 
     with st.form(key="user_input_form"):
          instructions = st.text_input("Enter topic")
